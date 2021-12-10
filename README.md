@@ -1,1 +1,17 @@
-# C-S-579-M02
+This code was prepared and excuted only in google colab.
+It has not been tested in local machine.
+To test method1:
+
+Please visit this url:
+https://colab.research.google.com/github/ahsan-muzaheed/C-S-579-M02/blob/main/method1.ipynb
+
+or 
+visit  https://github.com/ahsan-muzaheed/C-S-579-M02/blob/main/method1.ipynb
+
+On the page you will notice a "open in colab" button.
+click on that button.
+The "method1.ipynb" will be lunched in your personal colab.
+
+
+Now Run All (ctrl+F9) to excute .
+
